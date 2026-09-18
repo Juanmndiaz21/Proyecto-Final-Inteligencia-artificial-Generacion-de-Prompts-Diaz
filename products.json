@@ -1,0 +1,18 @@
+{
+  "Cables": [
+    {"nombre": "Cable Unipolar 1.5 mm2", "precio": 15000, "stock": 50},
+    {"nombre": "Cable Unipolar 2.5 mm2", "precio": 25000, "stock": 35},
+    {"nombre": "Cable Unipolar 4.0 mm2", "precio": 40000, "stock": 20},
+    {"nombre": "Cable Unipolar 6.0 mm2", "precio": 55000, "stock": 10}
+  ],
+  "Termicas": [
+    {"nombre": "Llave Termomagnética Bipolar 10A", "precio": 12000, "stock": 15},
+    {"nombre": "Llave Termomagnética Bipolar 16A", "precio": 12000, "stock": 25},
+    {"nombre": "Llave Termomagnética Bipolar 20A", "precio": 13500, "stock": 10},
+    {"nombre": "Llave Termomagnética Bipolar 25A", "precio": 13500, "stock": 10},
+    {"nombre": "Llave Termomagnética Bipolar 32A", "precio": 15000, "stock": 8}
+  ],
+  "Disyuntores": [
+    {"nombre": "Disyuntor Diferencial Bipolar 40A 30mA", "precio": 45000, "stock": 12}
+  ]
+}
